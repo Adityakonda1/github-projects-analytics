@@ -2,6 +2,6 @@
 
 Interactive visualization of GitHub projects across tech careers.
 
-🔗 **[Live Demo]([https://adityakonda1.github.io/github-projects-analytics](https://lnkd.in/gSjPjDsE))**
+🔗 **[Live Demo]([https://claude.ai/public/artifacts/1ce0fdc1-88ed-4d2c-a3ca-ea86612d3b96]))**
 
 Built with React • By Adithya Konda (ASU Masters Student)
